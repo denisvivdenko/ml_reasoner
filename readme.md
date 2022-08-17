@@ -4,12 +4,12 @@ Inspired by the course "Introduction to ML stategy" from Andrew Ng. The idea is 
 
 # Functionality:
 
-[] Keep track of progress
-[] Keep track of metrics
-[] Set up optimizing and satisficing metrics
-[] Split dataset (train/train-dev/dev/test sets)
-[] Error analysis
-[] Detect variance/bias/data mismatch
-[] Suggest best strategy
+- [] Keep track of progress
+- [] Keep track of metrics
+- [] Set up optimizing and satisficing metrics
+- [] Split dataset (train/train-dev/dev/test sets)
+- [] Error analysis
+- [] Detect variance/bias/data mismatch
+- [] Suggest best strategy
 
 
