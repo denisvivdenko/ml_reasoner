@@ -41,3 +41,7 @@ Inspired by the course "Introduction to ML stategy" from Andrew Ng. The idea is 
     Rules:
 
     - IF dev/test sets have data mismatch THEN error: "dev and test sets cannot have different distributions"
+
+# Diagrams:
+
+![idea](diagrams/automl_diagram.png)
